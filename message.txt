@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Mensaje desde la rama main
-=======
-Mensaje desde la rama feature
->>>>>>> feature-greeting
+Change from main
+Change from feature branch
